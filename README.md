@@ -4,12 +4,15 @@ Hi there 👋 I am Mahindra Jayavaram
 <!-- **Mahindra-Jayavaram/Mahindra-Jayavaram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-
-                      
+        
 <img margin="auto" src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg"/>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahindra-jayavaram&label=Profile%20views&color=0e75b6&style=flat" alt="mahindra-jayavaram" /> </p>
 
-About Me
+<p align="left"> <a href="https://twitter.com/mahindra_1999" target="blank"><img src="https://img.shields.io/twitter/follow/mahindra_1999?logo=twitter&style=for-the-badge" alt="mahindra_1999" /></a> </p>
+
+
+**About Me**
 
 - 🌱 I’m a student pursuing **Full Stack Web Development** at [**Masai School**](https://www.masaischool.com/)
 - 👯 Looking forwardd to launching my career as an **SDE**
@@ -18,6 +21,10 @@ About Me
 - 📫 Reach out me at [_**mahindrajayavaram@gmail.com**_](mailto:mahindrajayavaram@gmail.com)
 
 <img align="right" src = "https://github-readme-stats.vercel.app/api?username=Mahindra-Jayavaram&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
+
+
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahindra-jayavaram&show_icons=true&locale=en" alt="mahindra-jayavaram" /></p> -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
