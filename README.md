@@ -5,7 +5,7 @@ Hi there 👋 I am Mahindra Jayavaram
 
 <!-- Here are some ideas to get you started: -->
         
-<img margin="auto" src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg"/>
+<p align="left"><img  src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahindra-jayavaram&label=Profile%20views&color=0e75b6&style=flat" alt="mahindra-jayavaram" /> </p>
 
