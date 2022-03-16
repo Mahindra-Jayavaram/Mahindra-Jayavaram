@@ -2,7 +2,7 @@
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mahindra Jayavaram </h1>
 <h3 align="center"> MERN Stack Web Developer</h3>
 
-<div align="center" ><img src = "https://raw.githubusercontent.com/Renukote/Renukote/051cadb27789caa9a268427a07ad8d9e3b6c7cec/web-developer-img.svg" /></div>
+<div align="center" ><img src = "https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" /></div>
 
 <!-- Here are some ideas to get you started: -->
         
