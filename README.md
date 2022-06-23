@@ -20,7 +20,7 @@
 - 👯 Looking forwardd to launching my career as an **SDE**
 - 🤔 All of my projects are available at [_**My Github Repositories**_](https://github.com/Mahindra-Jayavaram?tab=repositories)
 - 👨🏻‍🎓 Check out My Resume at[ _**Mahindra-Jyavaram-Resume**_](https://drive.google.com/file/d/1-s4Ift310i1tbbSR2mD0EzYBvDj9RmxO/view?usp=sharing)
-- 👤 Check out My Portfolio at [**Mahindra-Jayavaram-Portfolio**](https://mahindra-portfolio-main-mahindrajayavaram-gmailcom.vercel.app/)
+- 👤 Check out My Portfolio at [**Mahindra-Jayavaram-Portfolio**](https://mahindra-portfolio-main-mahindra.vercel.app/)
 - 💌 Reach out me at [_**mahindrajayavaram@gmail.com**_](mailto:mahindrajayavaram@gmail.com)
 - ⚙️ Technical Skills : HTML, CSS, JS, MongoDB, Express.JS, Node.JS, React, Redux 
 
